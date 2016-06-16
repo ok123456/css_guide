@@ -1,0 +1,97 @@
+选择器
+
+id选择器
+空格 选择   范围比 > 大
+
+
+first
+last选择器
+eq  选择器
+has（‘label’）选择器
+
+input ：hidden  选择器
+
+visible 可见元素选择器
+
+[]  属性选择器  li[title!='水果']
+
+
+:input
+:text
+:password
+:radio
+:checkbox
+:submit
+:image
+:button
+:checked
+:selected
+
+dom元素的操作
+
+attr()
+append()
+before()
+after()
+clone()
+wrap()
+wrapInner()
+each()
+remove()
+empty()
+
+
+事件
+
+bind()
+hover()
+unbind()
+one()
+trigger()
+focus blur()
+change()
+live()
+
+
+动画
+show() hide()
+sildeUp() slideDown() 滑动效果
+fadeIn()  fadeOut() 淡出淡入
+ 
+jquery ajax
+
+load
+getJSPON
+getScript
+get()
+past()
+serialize()序列化表单元素。   Text1=%E5%A5%BD&Select1=0   和url操作一样。
+ajax() 
+
+
+jquery 工具类
+
+获取浏览器版本
+
+检查对象是否为空 $.isEmptyObject(obj);
+
+字符串操作 $.trim()删除字符两边的空格
+
+url操作   使用$.param()  汉字自动转换为 %……
+
+
+
+jquer插件
+
+validate
+form
+
+cookie
+
+autocomplete
+
+
+
+
+
+
