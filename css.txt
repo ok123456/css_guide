@@ -1,0 +1,71 @@
+css3
+
+选择器
+class选择器
+id选择器
+>选择器
+*选择器
+伪类选择器 hover 
+分组选择器  a,div
+
+
+css的继承 ，层叠   重要p{color:red!important}
+
+css 字体排版 
+字体 font-family
+字号、颜色  font-size color
+粗细font-weight:bold
+斜体 font-style
+下划线 text-decoration
+删除线 text-decoration
+缩进 text-indent
+行间距 line-height
+中文字间距、字母间距  字间距  letter-spacing:50px;
+段落排版--对齐 块状元素 text-align:center;
+
+
+
+css盒模型
+元素分类  块元素 行元素 内联块状元素
+
+div p h1 h6 ol ul dl table address blockquote form
+
+a span br i em strong label q var cite code
+
+img input
+
+
+display :black  inline inline-block
+
+盒模型
+margin + border + padding + width
+
+
+
+
+css布局模型
+
+css定位
+
+相对定位 position:relative
+绝对定位position:absolute
+固定定位position:fixed
+absolute和relative的使用
+
+css样式设置技巧
+
+水平居中 行内元素  text-align:center;
+水平居中 定宽块元素  margin:20px auto
+水平居中 不定宽块元素 1 table 2 display: inline 3 position:relative 和 left:50%
+
+垂直居中 父元素高度确定的单行文本   height 和 line-height 
+垂直居中 父元素高度确定的多行文本 1table  (包括tbody、tr、td)标签，同时设置 vertical-align：middle
+2 display 为 table-cell（设置为表格单元显示），激活 vertical-align
+display
+
+
+
+
+
+
+
